@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\bin\Debug\net6.0\Waterbill.exe
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\bin\Debug\net6.0\Waterbill.deps.json
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\bin\Debug\net6.0\Waterbill.runtimeconfig.json
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\bin\Debug\net6.0\Waterbill.dll
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\bin\Debug\net6.0\Waterbill.pdb
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.dll
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\refint\Waterbill.dll
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.pdb
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\Waterbill.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Waterbill\Waterbill\obj\Debug\net6.0\ref\Waterbill.dll
